@@ -1,0 +1,1 @@
+loadImage(source, callback);
